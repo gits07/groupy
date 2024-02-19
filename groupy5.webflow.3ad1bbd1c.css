@@ -2976,7 +2976,7 @@ p {
   white-space: nowrap;
   word-break: normal;
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(139deg, #bbb 29%, rgba(152, 152, 152, .4) 97%);
+  background-image: linear-gradient(139deg, #0dffc4 29%, rgba(13, 255, 196, 0.4) 97%);
   -webkit-background-clip: text;
   background-clip: text;
   padding: .125em;
