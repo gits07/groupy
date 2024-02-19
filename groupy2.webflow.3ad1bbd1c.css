@@ -4041,6 +4041,7 @@ p {
 .hero-fg-image.ar {
   width: 40%;
   max-width: 100%;
+  top: -50px; /* Adjust this value as needed */
 }
 
 .hero-fg-image.ar.hero {
@@ -6322,7 +6323,7 @@ p {
   }
 
   .hero-bg-image.img {
-    top: -7%;
+    top: -50px; /* Adjust this value as needed */
   }
 
   .big-text {
