@@ -3008,7 +3008,7 @@ p {
 
 .paragraph-gradient {
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(157deg, #bbb 23%, rgba(152, 152, 152, .5));
+  color: white;
   -webkit-background-clip: text;
   background-clip: text;
   margin-bottom: 0;
