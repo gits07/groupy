@@ -3008,6 +3008,7 @@ p {
 
 .paragraph-gradient {
   -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(157deg, rgba(255, 255, 255, 0) 23%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0) 100%);
   color: white;
   -webkit-background-clip: text;
   background-clip: text;
@@ -3015,7 +3016,7 @@ p {
 }
 
 .paragraph-gradient.a {
-  color: white;
+  background-image: linear-gradient(157deg, rgba(0, 0, 0, .6) 23%, rgba(152, 152, 152, .5));
 }
 
 .paragraph-gradient.b {
