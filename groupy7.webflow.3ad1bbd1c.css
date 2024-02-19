@@ -2980,7 +2980,7 @@ p {
   -webkit-background-clip: text;
   background-clip: text;
   padding: .125em;
-  font-size: 7em;
+  font-size: 10em;
   font-style: italic;
   font-weight: 700;
   line-height: 1;
@@ -7687,13 +7687,13 @@ p {
   }
 
   .big-text {
-    font-size: 5em;
+    font-size: 4em;
   }
 
   .big-text.outline {
     letter-spacing: 1px;
     -webkit-text-stroke-width: .2px;
-    font-size: 5em;
+    font-size: 3.1em;
   }
 
   .big-text.outline.mob {
